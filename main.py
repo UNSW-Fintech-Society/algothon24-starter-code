@@ -2,7 +2,6 @@
 import numpy as np
 
 ##### TODO #########################################
-### RENAME THIS FILE TO YOUR TEAM NAME #############
 ### IMPLEMENT 'getMyPosition' FUNCTION #############
 ### TO RUN, RUN 'eval.py' ##########################
 
